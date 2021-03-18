@@ -1,4 +1,4 @@
-import { Dictionary, MicroMemoize } from './types';
+import type { Dictionary, MicroMemoize } from './types';
 
 /**
  * @constant DEFAULT_OPTIONS_KEYS the default options keys

@@ -1,4 +1,4 @@
-import { MicroMemoize } from './types';
+import type { MicroMemoize } from './types';
 
 // utils
 import { cloneArray } from './utils';
