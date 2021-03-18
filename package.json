@@ -77,7 +77,7 @@
   "license": "MIT",
   "main": "dist/micro-memoize.cjs.js",
   "module": "dist/micro-memoize.esm.js",
-  "name": "micro-memoize",
+  "name": "micro-memoize-import-type",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/planttheidea/micro-memoize.git"
