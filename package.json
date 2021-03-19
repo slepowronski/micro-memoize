@@ -52,7 +52,7 @@
     "ts-jest": "^24.2.0",
     "ts-loader": "^6.2.1",
     "tslib": "^1.9.3",
-    "typescript": "^3.7.2",
+    "typescript": "^3.8.0",
     "underscore": "^1.9.1",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
@@ -102,5 +102,5 @@
   },
   "sideEffects": false,
   "types": "./index.d.ts",
-  "version": "4.0.9"
+  "version": "4.0.10"
 }
